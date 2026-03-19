@@ -56,8 +56,6 @@ We’re still in our early stages, but we love collaborators!
 
 * 🌍 Website: [miragek.com](https://miragek.com)
 * 📧 Email: [contact@miragek.com](mailto:contact@miragek.com)
-* 🐦 Twitter: [@miragek](https://twitter.com/miragek)
-* 💼 LinkedIn: [Miragek](https://linkedin.com/company/miragek)
 
 ---
 
